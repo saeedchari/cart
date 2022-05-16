@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "محصول 1",
+    "image": "/images/products/product-01.jpg",
+    "category": "شلوار",
+    "sizes": ["S", "M", "L"],
+    "colors": ["زرد", "بنفش"],
+    "price": 298000
+  },
+  {
+    "id": 2,
+    "name": "محصول 2",
+    "image": "/images/products/product-02.jpg",
+    "category": "پیرآهن",
+    "sizes": ["S", "XXL"],
+    "colors": ["سبز", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 3,
+    "name": "محصول 3",
+    "image": "/images/products/product-03.jpg",
+    "category": "پیرآهن",
+    "sizes": ["MD", "XL"],
+    "colors": ["سبز", "زرد"],
+    "price": 298000
+  },
+  {
+    "id": 4,
+    "name": "محصول 4",
+    "image": "/images/products/product-04.jpg",
+    "category": "پیرآهن",
+    "sizes": ["S", "L"],
+    "colors": ["سبز", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 5,
+    "name": "محصول 5",
+    "image": "/images/products/product-05.jpg",
+    "category": "لباس",
+    "sizes": ["S", "L"],
+    "colors": ["زرد", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 6,
+    "name": "محصول 6",
+    "image": "/images/products/product-06.jpg",
+    "category": "پیرآهن",
+    "sizes": ["L", "XXL"],
+    "colors": ["سبز", "بنفش"],
+    "price": 298000
+  },
+  {
+    "id": 7,
+    "name": "محصول 7",
+    "image": "/images/products/product-07.jpg",
+    "category": "شلوار",
+    "sizes": ["S", "L"],
+    "colors": ["بنفش", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 8,
+    "name": "محصول 8",
+    "image": "/images/products/product-08.jpg",
+    "category": "لباس",
+    "sizes": ["MD", "XXL"],
+    "colors": ["سبز", "بنفش"],
+    "price": 298000
+  },
+  {
+    "id": 9,
+    "name": "محصول 9",
+    "image": "/images/products/product-09.jpg",
+    "category": "پیرآهن",
+    "sizes": ["S", "L"],
+    "colors": ["سبز", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 10,
+    "name": "محصول 10",
+    "image": "/images/products/product-10.jpg",
+    "category": "شلوار",
+    "sizes": ["S", "L"],
+    "colors": ["سبز", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 11,
+    "name": "محصول 11",
+    "image": "/images/products/product-11.jpg",
+    "category": "پیرآهن",
+    "sizes": ["S", "L"],
+    "colors": ["بنفش", "آبی"],
+    "price": 298000
+  },
+  {
+    "id": 12,
+    "name": "محصول 12",
+    "image": "/images/products/product-12.jpg",
+    "category": "پیرآهن",
+    "sizes": ["S", "L"],
+    "colors": ["سبز", "آبی"],
+    "price": 298000
+  }
+]
